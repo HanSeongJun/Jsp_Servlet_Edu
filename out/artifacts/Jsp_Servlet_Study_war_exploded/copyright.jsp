@@ -1,0 +1,1 @@
+All Contents Copyright(c) 2020 Ruby Paper Co. ,LTD

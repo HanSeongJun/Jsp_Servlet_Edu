@@ -14,7 +14,6 @@ public class SecondServlet extends HttpServlet {
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws
             ServletException, IOException {
         System.out.println("Second Servlet!");
-
         PrintWriter out = resp.getWriter();
         out.print("<html><head><title>Test</title></head>");
         out.print("<body><h1>Have a nice day!!</h1></body>");
